@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Owl, burrowing","category":"Turquoise"},
+{"id":2,"name":"Caracara, yellow-headed","category":"Turquoise"},
+{"id":3,"name":"Heron, goliath","category":"Red"},
+{"id":4,"name":"Curve-billed thrasher","category":"Fuscia"},
+{"id":5,"name":"Emerald-spotted wood dove","category":"Aquamarine"},
+{"id":6,"name":"Pine snake (unidentified)","category":"Khaki"},
+{"id":7,"name":"Admiral, indian red","category":"Goldenrod"},
+{"id":8,"name":"Tern, white-winged black","category":"Teal"},
+{"id":9,"name":"Sheep, american bighorn","category":"Red"},
+{"id":10,"name":"Mudskipper (unidentified)","category":"Violet"},
+{"id":11,"name":"Common zebra","category":"Teal"},
+{"id":12,"name":"Magistrate black colobus","category":"Turquoise"},
+{"id":13,"name":"Carpet snake","category":"Khaki"},
+{"id":14,"name":"Python, carpet","category":"Mauv"},
+{"id":15,"name":"Vine snake (unidentified)","category":"Blue"},
+{"id":16,"name":"Brown lemur","category":"Teal"},
+{"id":17,"name":"Lapwing (unidentified)","category":"Goldenrod"},
+{"id":18,"name":"Python, carpet","category":"Green"},
+{"id":19,"name":"Cliffchat, mocking","category":"Indigo"},
+{"id":20,"name":"Hawk, red-tailed","category":"Yellow"}
+]
+}
